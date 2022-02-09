@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PS5Australia
+- 👀 I’m interested in Python and HTML/CSS/JS
+- 🌱 I’m currently learning HTML/CSS/JS
+- 📫 How to reach me https://twitter.com/ToyuAU or Toyu#9922 on Discord
